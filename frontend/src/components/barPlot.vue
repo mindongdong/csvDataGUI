@@ -8,9 +8,6 @@
     </vue-csv-import>
 
     <div class="canvas">
-      <div>{{ csv }}</div>
-      <p>bar plot</p>
-      <!-- <div class=".canvas"></div>   -->
       <svg></svg>    
     </div>
   </div>
